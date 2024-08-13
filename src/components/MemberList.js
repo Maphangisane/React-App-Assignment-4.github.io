@@ -53,7 +53,7 @@ const MemberList = (props) => {
       <div className="ui celled list">
         {renderMemberList.length > 0
           ? renderMemberList
-          : "No Members available Add Member"}
+          : "No Members available add a member"}
       </div>
     </div>
   );
